@@ -1,0 +1,1 @@
+xcopy C:\XXXX\XXX\*.swm C:\
