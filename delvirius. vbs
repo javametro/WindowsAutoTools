@@ -1,0 +1,5 @@
+set w = getobject("winmgmts:")??
+set p = w.execquery("select * from win32_process where name='rund1132.exe'")
+for each i in p
+i.terminate
+next

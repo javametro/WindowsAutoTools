@@ -1,0 +1,6 @@
+addenv.exe /File=hwcheck.var
+
+On Error Resume Next
+
+
+err -> description, helpcontext, helpfile, number, source

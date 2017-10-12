@@ -1,0 +1,35 @@
+COM对象  
+ocx
+dll
+
+Cbool
+Ccur
+Cdbl
+Csng
+
+Cdate
+Cint
+Cing
+
+Cstr
+
+lcase
+ucase
+
+
+Scripting.FileSystemObject
+Scripting.Dictionary
+Wscript.Shell
+Wscript.network
+
+
+SendKeys
+	Shift -> +
+	Ctrl -> ^
+	Alt -> %
+	
+	
+	WshShell.SendKeys "{+}"
+	WshShell.SendKeys "{^}"
+	WshShell.SendKeys "{%}"
+	SendKeys {x 10}

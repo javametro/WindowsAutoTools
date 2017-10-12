@@ -1,0 +1,6 @@
+InstallCheck.exe "[HW_TYPE=VT]"
+IF %ERRORLEVEL%==0 (
+call PowerScheme-LT.bat
+call :GETERR
+GOTO END
+)
