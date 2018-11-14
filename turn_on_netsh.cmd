@@ -1,1 +1,1 @@
-netsh interface set interface "ã‚¤ãƒ¼ã‚µãƒãƒƒãƒˆ" enable
+netsh interface set interface "ƒC[ƒTƒlƒbƒg" enable

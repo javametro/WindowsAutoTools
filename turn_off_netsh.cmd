@@ -1,1 +1,1 @@
-netsh interface set interface "ã‚¤ãƒ¼ã‚µãƒãƒƒãƒˆ" disabled
+netsh interface set interface "ƒC[ƒTƒlƒbƒg" disabled
