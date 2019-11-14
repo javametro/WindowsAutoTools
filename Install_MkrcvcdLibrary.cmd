@@ -1,1 +1,0 @@
-msiexec /i C:\APSETUP\MkrcvcdLibray\mkrcvcdLibrary.msi /quiet
